@@ -1,3 +1,6 @@
 # hotel-flozo
 Landing Page Hotel - Front-End developed with template ColorLib
-View: https://pedrowesley.github.io/hotel-flozo/
+View: https://hotel-flozo.netlify.app/
+
+This institutional website was developed for school work.
+Deploy on netlify
